@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hetweetic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username_label">Entrez un nom d\'utilisateur</string>
+    <string name="username_et">ex : "hetic"</string>
+    <string name="display_timeline_bt">Afficher la timeline</string>
+</resources>

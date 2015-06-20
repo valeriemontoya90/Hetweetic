@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Note :
+        android:elevation="4dp"
+        Is useful to respect Material Design guidelines
+
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        automatically adjust texts and buttons to default action bar colors
+ -->
+<android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/ColorPrimary"
+        android:elevation="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/CustomThemeToolbarDarkOverflow"
+        app:popupTheme="@style/Theme.AppCompat.NoActionBar">
+</android.support.v7.widget.Toolbar>

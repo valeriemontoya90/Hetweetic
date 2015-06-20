@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rouge">#FFFF0000</color>
+    <color name="bleu">#FF0000FF</color>
+    <color name="blanc">#FFFFFF</color>
+    <color name="vert">#FF00FF00</color>
+    <color name="space_gray">#ff818288</color>
+    <color name="ColorPrimary">#37474F</color>
+    <color name="ColorPrimaryDark">#263238</color>
+    <color name="EditTextInPrimary">#78909C</color>
+    <color name="AccentButton">#7986CB</color>
+    <color name="AccentTitle">#9CCC65</color>
+    <color name="red">#FFFF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#FF0000FF</color>
+</resources>
